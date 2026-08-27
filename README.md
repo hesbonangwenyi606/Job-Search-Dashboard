@@ -70,5 +70,4 @@ The Job Search Dashboard is designed to simplify the job-hunting process by brin
 ## Status
 
 🚧 **In Development**
-
 More features and improvements will be added as development continues.
