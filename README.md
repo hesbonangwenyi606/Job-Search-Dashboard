@@ -1,5 +1,4 @@
 # Job Search Dashboard
-
 A modern job search and application tracking dashboard built with **React and Vite**. The application helps users organize job opportunities, track applications, search and filter jobs, and monitor their overall job-search progress.
 
 ## Tech Stack
