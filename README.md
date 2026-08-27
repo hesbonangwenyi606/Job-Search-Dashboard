@@ -68,6 +68,5 @@ public/
 The Job Search Dashboard is designed to simplify the job-hunting process by bringing job discovery, application tracking, and progress monitoring into one place.
 
 ## Status
-
 🚧 **In Development**
 More features and improvements will be added as development continues.
