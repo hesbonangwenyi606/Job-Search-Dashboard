@@ -11,7 +11,6 @@ A modern job search and application tracking dashboard built with **React and Vi
 * CSS
 
 ## Features
-
 * 🔎 Search and filter job opportunities
 * 📋 Track job applications
 * 📊 Monitor application status
