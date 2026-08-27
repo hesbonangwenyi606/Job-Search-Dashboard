@@ -20,7 +20,6 @@ A modern job search and application tracking dashboard built with **React and Vi
 * ⚡ Fast development with Vite and HMR
 
 ## Getting Started
-
 Install the dependencies:
 
 ```bash
