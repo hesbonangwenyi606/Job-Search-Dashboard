@@ -52,7 +52,6 @@ npm run lint
 ```
 
 ## Project Structure
-
 ```text
 src/
 ├── components/
